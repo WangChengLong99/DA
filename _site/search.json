@@ -1,0 +1,109 @@
+[
+  {
+    "objectID": "统计学.html",
+    "href": "统计学.html",
+    "title": "统计学",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "统计学"
+    ]
+  },
+  {
+    "objectID": "可视化.html",
+    "href": "可视化.html",
+    "title": "可视化",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "可视化"
+    ]
+  },
+  {
+    "objectID": "sql.html",
+    "href": "sql.html",
+    "title": "sql",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "sql"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "数据分析",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "excel.html",
+    "href": "excel.html",
+    "title": "excel",
+    "section": "",
+    "text": "你好牛代发哦时间哦发\n\n\n\n Back to top",
+    "crumbs": [
+      "excel"
+    ]
+  },
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "python",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "python"
+    ]
+  },
+  {
+    "objectID": "业务.html",
+    "href": "业务.html",
+    "title": "业务",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "业务"
+    ]
+  },
+  {
+    "objectID": "窗口函数.html",
+    "href": "窗口函数.html",
+    "title": "窗口函数",
+    "section": "",
+    "text": "function over(partition by 字段1,字段2，... order by 字段1,字段2) rows ...",
+    "crumbs": [
+      "sql",
+      "窗口函数"
+    ]
+  },
+  {
+    "objectID": "窗口函数.html#基本语法",
+    "href": "窗口函数.html#基本语法",
+    "title": "窗口函数",
+    "section": "",
+    "text": "function over(partition by 字段1,字段2，... order by 字段1,字段2) rows ...",
+    "crumbs": [
+      "sql",
+      "窗口函数"
+    ]
+  },
+  {
+    "objectID": "窗口函数.html#解释",
+    "href": "窗口函数.html#解释",
+    "title": "窗口函数",
+    "section": "解释",
+    "text": "解释",
+    "crumbs": [
+      "sql",
+      "窗口函数"
+    ]
+  }
+]

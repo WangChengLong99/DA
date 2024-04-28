@@ -1,21 +1,58 @@
 project:
-  type: book
-
-book:
+  type: website
+website:
   title: "数据分析"
-  author: "wcl"
-  date: "2024/4/27"
-  chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+  bread-crumbs: true
+  page-navigation: true
+  back-to-top-navigation: true
+  repo-url: https://github.com/WangChengLong99/DA
+  repo-actions: [edit, issue]
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "home"
+        file: index.qmd
+      - text: "python"
+        file: python.qmd
+      - text: "sql"
+        file: sql.qmd
+      - text: "excel"
+        file: excel.qmd
+      - text: "可视化"
+        file: 可视化.qmd
+      - text: "业务"
+        file: 业务.qmd
+      - text: "统计学"
+        file: 统计学.qmd
+  sidebar:
+    - title: "python"
+      style: "docked"
+      background: light
+      contents:
+        - python.qmd
+    - title: "sql"
+      contents:
+        - sql.qmd
+        - 窗口函数.qmd
+    - title: "excel"
+      contents:
+        - excel.qmd
+    - title: "可视化"
+      contents:
+        - 可视化.qmd
+    - title: "业务"
+      contents:
+        - 业务.qmd
+    - title: "统计学"
+      contents:
+        - 统计学.qmd
 
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    css: styles.css
+    toc: true
 
 
 
